@@ -1,0 +1,3 @@
+edad: 20 años
+nombre: Daniel Daza Macias
+aspiraciones: Aprender y entender los paradigmas de la programación orientada a objetos para aplicar a mi vida profesional

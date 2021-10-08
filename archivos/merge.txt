@@ -2,4 +2,6 @@ edad: 20 años
 nombre: Daniel Daza Macias
 aspiraciones: Aprender y entender los paradigmas de la programación orientada a objetos para aplicar a mi vida profesional
 
-ahora se pudo subir la carpeta archivos porque ya no estaba vacia
+r1/ahora se pudo subir la carpeta archivos porque ya no estaba vacia
+r2/es importante tener cuidado porque pueden generarse conflicto con los cambios realizados en el mismo archivo por diferentes personas
+o en este caso por nosotros mismos 
